@@ -1,8 +1,8 @@
 # Basic-AndroidStudio
 ### Program:
 ~~~
-Developed By: Ragul V K
-Register Number: 212221240043
+Developed By: pragtheesvaran AB
+Register Number: 212221240039
 ~~~
 ### MainActivity.java:
 ~~~
